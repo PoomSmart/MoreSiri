@@ -53,11 +53,11 @@ NSArray *hax_PSSupportedLanguages2(void *block)
 		return @"Hej Siri";
 	if ([languageCode isEqualToString:@"nb-NO"])
 		return @"Hei Siri";
+	if ([languageCode isEqualToString:@"ru-RU"])
+		return @"Привет Siri";
 	/*if ([languageCode isEqualToString:@"nl-NL"])
 		return @"??? Siri";*/
 	/*if ([languageCode isEqualToString:@"pt-BR"])
-		return @"??? Siri";*/
-	/*if ([languageCode isEqualToString:@"ru-RU"])
 		return @"??? Siri";*/
 	/*if ([languageCode isEqualToString:@"sv-SE"])
 		return @"??? Siri";*/
