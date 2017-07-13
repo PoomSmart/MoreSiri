@@ -1,0 +1,8 @@
+Package: org.thebigboss.moresiri
+Name: MoreSiri
+Depends: mobilesubstrate, firmware (>= 5.0), gsc.assistant
+Version: 1.0
+Architecture: iphoneos-arm
+Description: More languages support for Siri.
+Maintainer: PoomSmart
+Author: PoomSmart
